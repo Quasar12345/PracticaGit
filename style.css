@@ -3,3 +3,7 @@ h1{
     text-align: center;
 }
 
+body{
+    border-radius: 10;
+    background-color:blueviolet;
+}
